@@ -1,0 +1,5 @@
+Roadmaps:
+
+Python : https://whimsical.com/python-topics-VEQdBiM3NMdhwiKCzhY6rG
+Data Science : https://whimsical.com/data-science-roadmap-2022-H31ozuZ7cBiBFNLi1kmgwF
+python tutorial documentation : https://docs.python.org/3/tutorial/
